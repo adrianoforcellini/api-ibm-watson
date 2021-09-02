@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import connectBack from "../Utills/axiosconfig";
 import { useDispatch } from "react-redux";
 
@@ -29,6 +29,10 @@ function Form() {
       alert("O comentário está vazio!");
     }
   };
+
+  useEffect(() => {
+   loadAll();
+  }, [loadAll]);
 
   return (
     <div className="form">
