@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import connectBack from "../Utills/axiosconfig";
 import { useDispatch } from "react-redux";
 
@@ -6,14 +6,14 @@ function Form() {
   const [comment, setComment] = useState("");
 
   const dispatch = useDispatch();
-  const loadAll = async () => {
+  const loadAll = useCallback(async () => {
     const getAll = await connectBack.get("/comments");
     const allData = getAll.data;
     setTimeout(
       () => dispatch({ type: "sendComments", comments: allData }),
       3000
     );
-  };
+  }, [dispatch]);
 
   const handleChange = ({ target }) => {
     setComment(target.value);
@@ -31,7 +31,7 @@ function Form() {
   };
 
   useEffect(() => {
-   loadAll();
+    loadAll();
   }, [loadAll]);
 
   return (
