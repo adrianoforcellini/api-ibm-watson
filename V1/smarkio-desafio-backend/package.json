@@ -1,0 +1,22 @@
+{
+  "name": "smarkio-desafio-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "ibm-watson": "^6.1.2",
+    "mysql2": "^2.3.0",
+    "path": "^0.12.7"
+  }
+}
