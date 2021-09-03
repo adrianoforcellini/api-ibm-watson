@@ -46,7 +46,6 @@
 #### Agora vamos instalar as dependências e iniciar o servidor:
 #### npm i && npm start
 <br></br>
-
 ####  Em outro terminal, navegue até a pasta do front ( partindo da mesma pasta onde foi baixado o projeto ),
 ####  e instale também as dependencias e inicie o servidor :
 ####  cd api-ibm-watson/V1/smarkio-desafio-frontend/ && npm i && npm start
