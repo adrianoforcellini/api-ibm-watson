@@ -1,5 +1,4 @@
 const synthesizeAudio = require('../utills/watsonAPI');
-const io = require('../index');
 
 const postWatson = async (req, res) => {
   const {id, comment} = await req.body;
