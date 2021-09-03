@@ -17,6 +17,4 @@
 ### Como o tempo está se esgotando, resolvi já postar assim mesmo, Pelo menos para mostrar um pouco mais de meu trabalho.
 ### Obrigado pela oportunidade.
 
-
-
-
+### NOTA : ESSA API É PUBLICA. QUALQUER PALAVRA OFENSIVA OU INDEVIDA NÃO TERÁ SIDO DE MANEIRA ALGUMA ALÍ COLOCADA POR MIM, E NEM TÃO POUCO CORRESPONDERÁ AOS MEUS VALORES.
