@@ -4,11 +4,13 @@ import { useDispatch } from "react-redux";
 
 function Form() {
   const [comment, setComment] = useState("");
+  const [id, setId] = useState("");
 
   const dispatch = useDispatch();
   const loadAll = useCallback(async () => {
     const getAll = await connectBack.get("/comments");
     const allData = getAll.data;
+    setId(allData.length + 1);
     setTimeout(
       () => dispatch({ type: "sendComments", comments: allData }),
       3000
@@ -23,7 +25,7 @@ function Form() {
     if (comment) {
       setComment("");
       await connectBack.post("/comments", { comment });
-      await connectBack.post("/watson", { comment });
+      await connectBack.post("/watson", { id, comment });
       await loadAll();
     } else {
       alert("O comentário está vazio!");

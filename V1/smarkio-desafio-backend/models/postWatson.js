@@ -2,7 +2,7 @@ const synthesizeAudio = require('../utills/watsonAPI');
 const io = require('../index');
 
 const postWatson = async (req, res) => {
-  const comment = await req.body.comment;
+  const {id, comment} = await req.body;
   const synthesizeParams =
   {
     text: `${comment}`,
@@ -10,7 +10,7 @@ const postWatson = async (req, res) => {
     voice: 'pt-BR_IsabelaV3Voice',
   };
   
-  synthesizeAudio(synthesizeParams);
+  synthesizeAudio(synthesizeParams, id);
   res.send(comment);
 };
 

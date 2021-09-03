@@ -13,8 +13,7 @@ const textToSpeech = new TextToSpeechV1({
   }),
 });
 
-const synthesizeAudio = (params) => {
-  id += 1;
+const synthesizeAudio = (params, id) => {
   textToSpeech
     .synthesize(params)
     .then((response) => {
