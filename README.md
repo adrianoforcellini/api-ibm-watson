@@ -54,3 +54,6 @@
 ### Agora é só digitar os comentários e enviar. Bacana, não?
 ### Sempre que quiser reutilizar o aplicativo, basta iniciar os dois servidores e aguardar até que os comentarios sejam renderizados na tela.
 
+### PS:  Ei, da uma olhadinha na pasta v2...Tem coisa interessante lá também!!! ;D
+
+
