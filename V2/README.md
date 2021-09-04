@@ -10,7 +10,8 @@
 
 ### Você ṕode verificar o funcionamento desse backend pelos links
 ### https://watson-back.herokuapp.com/comments , que te conectará ao banco de dados dynamoDB,
-### bem como pelo link https://watson-back.herokuapp.com/1.mp3 , que armazena o primeiro comentário.
+### bem como enviando requisições do tipo POST para https://watson-back.herokuapp.com/watson, com o comment no body. que armazenará temporariamente os comentários que ficarão disponível em https://watson-back.herokuapp.com/comments/1.mp3, https://watson-back.herokuapp.com/comments/2.mp3, e assim por diante.
+<img src="heroku-audios.png" alt="imagem_heroku-audios" width="400"/>
 
 ### Precisei realizar alguns ajustes no front, o qual foi feito deploy no Amplify da Amazon.
 ### Mas houveram alguns problemas com as requisições, estou trabalhando nisso.
