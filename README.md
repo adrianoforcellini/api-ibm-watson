@@ -1,6 +1,6 @@
 
 ### V1: React JS + SQL + NodeJS + API Watson(IBM)
-### V2: React JS + dynamoDB + Serverless API + API Watson(IBM) + uma pitada de Node JS.
+### V2: React JS + dynamoDB + Serverless API + API Watson(IBM) + Heroku +uma pitada de Node JS.
 
 ### Uma aplicação que sintetiza audios para você. Basta digitar o texto.
 <img src="/V1/app-watson.gif" alt="imagem_start_for_free" width="800"/>
