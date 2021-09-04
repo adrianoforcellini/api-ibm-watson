@@ -1,7 +1,5 @@
 
 ### React JS + SQL + NodeJS + API Watson(IBM)
-### Uma aplicação que sintetiza audios para você. Basta digitar o texto.
-<img src="app-watson.gif" alt="imagem_start_for_free" width="800"/>
 
 ### Como funciona?
 
