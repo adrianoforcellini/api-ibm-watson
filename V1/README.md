@@ -53,5 +53,5 @@
 ####  cd api-ibm-watson/V1/smarkio-desafio-frontend/ && npm i && npm start
 
 ### Agora é só digitar os comentários e enviar. Bacana, não?
-### Sempre que quiser reutilizar o aplicativo, basta iniciar os dois servidores e aguardar até que os comentarios sejam renderizados na tela.
+### Sempre que quiser reutilizar o aplicativo, basta iniciar os dois servidores e aguardar até que os comentarios sejam renderizados na tela. Comece sempre pelo servidor no backend para garantir que o front receberá as informações.
 
