@@ -8,8 +8,9 @@
 
 ###  Como funciona?
 
-## A versão 1.0 é para uso local e possuí um manual completo de instruções caso você deseje baixar-la. As vantagens são que você poderá contar sempre com ela, e lá aprenderá a conseguir suas proprias credenciais gratuitas, e muito mais.
+## A versão 1.0 é para uso local e possuí um manual completo de instruções caso você deseje baixar-la. As vantagens são que você poderá contar sempre com ela, manter seus audios guardados e até reutilizar-los em outros projetos. Lá aprenderá a conseguir suas proprias credenciais gratuitas, e muito mais.
 
-## A versão 2.0 está rodando na nuvem, sinta-se á vontade para utilizar-la.
+## já a versão 2.0 está rodando na nuvem, portanto não necessita complicações e você se divertir á vontade. 
+## Sinta-se á vontade para utilizar-la. Mas lembre-se que este é um ambiente coletivo, onde se espera respeito mútuo ;D
 
 
