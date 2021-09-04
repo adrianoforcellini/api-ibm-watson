@@ -15,7 +15,7 @@
 <br></br>
 
 #### Depois de seguir o passo a passo para criar sua conta, logue na plataforma e acesse o link do primeiro passo.
-#### Lá, clique em crete, e então, em show. Copie a API Key e a URL. Guarde com muito carinho.
+#### Lá, clique em create, e então, em show. Copie a API Key e a URL. Guarde com muito carinho.
 <img src="ibm create.png" alt="imagem_create" width="400"/>
 <br></br>
 
