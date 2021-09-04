@@ -13,12 +13,12 @@
 
 #### Depois, será necessário criar um conta. Clique em Sign up to create.
 <br></br>
-<img src="ibm signup.png" alt="imagem_start_for_free" width="400"/>
+<img src="ibm signup.png" alt="imagem_signup_for_free" width="400"/>
 <br></br>
 
 #### Depois de seguir o passo a passo para criar sua conta, logue na plataforma e acesse o link do primeiro passo.
 #### Lá, clique em crete, e então, em show. Copie a API Key e a URL. Guarde com muito carinho.
-<img src="ibm create.png" alt="imagem_start_for_free" width="400"/>
+<img src="ibm create.png" alt="imagem_create" width="400"/>
 <br></br>
 
 #### A segunda coisa importante , é criar o banco de dados que iremos usar, e um usuario com privilégios, caso não o tenha.
@@ -43,7 +43,7 @@
 ####  Navegue até a pasta smarkio-desafio-backend  com o comando :
 ####  cd V1/smarkio-desafio-backend/
 ####  Crie um arquivo .env e adicione os itens como no exemplo: 
-<img src="ibm env.png" alt="imagem_start_for_free" width="400"/>
+<img src="ibm env.png" alt="imagem_arquivo_env" width="400"/>
 
 #### Agora vamos instalar as dependências e iniciar o servidor:
 #### npm i && npm start
@@ -56,5 +56,4 @@
 ### Sempre que quiser reutilizar o aplicativo, basta iniciar os dois servidores e aguardar até que os comentarios sejam renderizados na tela.
 
 ### PS:  Ei, da uma olhadinha na pasta v2...Tem coisa interessante lá também!!! ;D
-
 
