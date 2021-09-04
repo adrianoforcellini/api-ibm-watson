@@ -5,6 +5,12 @@ import { useDispatch } from "react-redux";
 function Form() {
   const [comment, setComment] = useState("");
   const [id, setId] = useState("");
+  const fs = async () => {
+    const data = await fetch('https://watson-back.herokuapp.com/comments')
+    .then(r => r.json());
+    console.log(data);
+    }
+fs();
 
   const dispatch = useDispatch();
   const loadAll = useCallback(async () => {
@@ -24,7 +30,7 @@ function Form() {
   const handleClik = async () => {
     if (comment) {
       setComment("");
-      await connectBack.post("/comments", { comment });
+      await connectBack.post("/comments", {id, comment });
       await connectBack.post("/watson", { id, comment });
       await loadAll();
     } else {
