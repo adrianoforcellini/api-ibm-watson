@@ -13,7 +13,7 @@
 
 ## A versão 2.0 está rodando na nuvem, portanto não necessita complicações e você pode se divertir á vontade. Os audios só ficam hospedados temporariamente, mas é o suficiente para escutar-los e até baixar-los. 
 
-## A versão 3.0 também está rodando na nuvem, e traz como novidade a possibilidade de tradução dos comentarios de português, ingles, frances, italiano, koreano, japonês ,alemão e espanhol, para qualquer uma das mesmas 8 linguas.. 
+## A versão 3.0 também está rodando na nuvem, e traz como novidade a possibilidade de tradução dos comentarios de português, inglês, francês, italiano, koreano, japonês ,alemão e espanhol, para qualquer uma das mesmas 8 linguas.. 
 
 ## Sinta-se á vontade para utilizar as duas ultimas versões. Mas lembre-se que este é um ambiente coletivo, onde se espera respeito mútuo ;D
 
