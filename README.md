@@ -16,5 +16,3 @@
 ## A versão 3.0 também está rodando na nuvem, e traz como novidade a possibilidade de tradução dos comentarios de português, inglês, francês, italiano, koreano, japonês ,alemão e espanhol, para qualquer uma das mesmas 8 linguas.. 
 
 ## Sinta-se á vontade para utilizar as duas ultimas versões. Mas lembre-se que este é um ambiente coletivo, onde se espera respeito mútuo ;D
-
-
