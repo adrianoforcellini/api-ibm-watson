@@ -12,6 +12,7 @@
 
 ### Precisei realizar alguns ajustes no front, o qual foi feito deploy no AWS Amplify da Amazon.
 
+# ****SERVIÇO TEMPORARIAMENTE SUSPENSO****
 ### Para utilizar, basta acessar : https://main.d6nv19dnwbukw.amplifyapp.com/
 <br></br><br></br>
 
